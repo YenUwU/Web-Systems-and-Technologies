@@ -26,5 +26,4 @@ We are a team of 3rd year student programmers from Sorsogon State University - B
 | Activity 3 |  |
 | Activity 4 |  |
 
-![DEADLINE STUDIO LOGO](https://github.com/YenUwU/Web-Systems-and-Technologies/assets/100588759/b5ed512a-b67f-4dfd-b22b-ceccca3ad220)
-
+![DEADLINE STUDIO LOGO](https://github.com/YenUwU/Web-Systems-and-Technologies/assets/100588759/df68499f-a970-4c86-8fba-d4644157b577)
