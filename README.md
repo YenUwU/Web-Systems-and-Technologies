@@ -1,6 +1,7 @@
 
 # 𝐇𝐢, 𝐖𝐞 𝐀𝐫𝐞 𝐃𝐞𝐚𝐝𝐥𝐢𝐧𝐞 𝐒𝐭𝐮𝐝𝐢𝐨! 👋😃
 
+![DEADLINE STUDIO LOGO](https://github.com/YenUwU/Web-Systems-and-Technologies/assets/100588759/df68499f-a970-4c86-8fba-d4644157b577)
 
 ## ⏰ About Deadline Studio...
 We are a team of 3rd year student programmers from Sorsogon State University - Bulan Campus doing our best at learning programming.
@@ -26,4 +27,4 @@ We are a team of 3rd year student programmers from Sorsogon State University - B
 | Activity 3 |  |
 | Activity 4 |  |
 
-![DEADLINE STUDIO LOGO](https://github.com/YenUwU/Web-Systems-and-Technologies/assets/100588759/df68499f-a970-4c86-8fba-d4644157b577)
+
